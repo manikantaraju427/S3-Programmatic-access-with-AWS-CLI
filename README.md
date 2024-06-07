@@ -63,9 +63,18 @@ Check aws-cli installed or not using checking aws version
 Once you have installed the AWS CLI, open a terminal and run the command aws configure to configure your account credentials.
 
 Enter your AWS Access Key ID and Secret Access Key
+
 and
+
 List s3 buckets using below command:
+
 ![Screenshot (380)](https://github.com/manikantaraju427/S3-Programmatic-access-with-AWS-CLI/assets/125948783/93a83807-7024-4a10-b63e-7b60ad4da31f)
+
+you can use the aws s3 cp command to copy the file from your S3 bucket to
+
+your EC2 instance and view content of file using cat command.
+
+
 
 
 
