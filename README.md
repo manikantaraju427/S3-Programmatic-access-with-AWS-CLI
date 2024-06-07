@@ -52,6 +52,27 @@ Once the upload is complete, you can see the file in your S3 bucket.
 
 ![Screenshot (379)](https://github.com/manikantaraju427/S3-Programmatic-access-with-AWS-CLI/assets/125948783/138e7511-624b-4bce-98f0-9eb958ee71d9)
 
+Access the file from the EC2 instance using the AWS Command Line Interface (AWS CLI).
+
+Install the AWS CLI.
+
+![Screenshot (381)](https://github.com/manikantaraju427/S3-Programmatic-access-with-AWS-CLI/assets/125948783/fa22b5ea-f918-4b46-a405-927be8b547d1)
+
+Check aws-cli installed or not using checking aws version
+
+Once you have installed the AWS CLI, open a terminal and run the command aws configure to configure your account credentials.
+
+Enter your AWS Access Key ID and Secret Access Key
+and
+List s3 buckets using below command:
+![Screenshot (380)](https://github.com/manikantaraju427/S3-Programmatic-access-with-AWS-CLI/assets/125948783/93a83807-7024-4a10-b63e-7b60ad4da31f)
+
+
+
+
+
+
+
 
 
 
