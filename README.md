@@ -44,6 +44,10 @@ Once you’ve selected your file, click “Next.”
 
 ![Screenshot (378)](https://github.com/manikantaraju427/S3-Programmatic-access-with-AWS-CLI/assets/125948783/5b72294f-8efc-4551-ab79-5ed26b028ed9)
 
+next you can set permissions for your file, configure storage class and set metadata.
 
+review the details before clicking on the “Upload” button to upload your file.
+
+Once the upload is complete, you can see the file in your S3 bucket.
 
 
