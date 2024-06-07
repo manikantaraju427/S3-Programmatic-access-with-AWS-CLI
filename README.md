@@ -42,3 +42,8 @@ In the “Upload” window, click on the “Add files” button to select the fi
 
 Once you’ve selected your file, click “Next.”
 
+![Screenshot (378)](https://github.com/manikantaraju427/S3-Programmatic-access-with-AWS-CLI/assets/125948783/5b72294f-8efc-4551-ab79-5ed26b028ed9)
+
+
+
+
