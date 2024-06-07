@@ -50,4 +50,8 @@ review the details before clicking on the “Upload” button to upload your fil
 
 Once the upload is complete, you can see the file in your S3 bucket.
 
+![Screenshot (379)](https://github.com/manikantaraju427/S3-Programmatic-access-with-AWS-CLI/assets/125948783/138e7511-624b-4bce-98f0-9eb958ee71d9)
+
+
+
 
