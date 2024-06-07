@@ -17,7 +17,28 @@ Log in to the AWS Management Console.
 Navigate to the EC2 service and launch an EC2 instance using the console.
 
 Connect to the EC2 instance using SSH.
-![Screenshot (375)](https://github.com/manikantaraju427/S3-Programmatic-access-with-AWS-CLI/assets/125948783/435ecc36-388b-4815-963d-5360862a93f3)
 
+![Screenshot (375)](https://github.com/manikantaraju427/S3-Programmatic-access-with-AWS-CLI/assets/125948783/4f5101ee-6dac-4486-ab4d-f81e1e373157)
 
+Create an S3 bucket and upload a file to it using the AWS Management Console.
+
+Log in to your AWS Management Console and go to the S3 service.
+
+Click on the “Create bucket” button.
+
+Enter a unique name for your bucket, select the region you want to create it in, and then click “Create.”
+
+![Screenshot (376)](https://github.com/manikantaraju427/S3-Programmatic-access-with-AWS-CLI/assets/125948783/3d37401d-1eec-46ad-a45e-4d052e846214)
+
+Click on ‘Create Bucket’
+
+Once your bucket is created, click on its name to open it.
+
+Click on the “Upload” button to upload a file.
+
+![Screenshot (377)](https://github.com/manikantaraju427/S3-Programmatic-access-with-AWS-CLI/assets/125948783/c5410f84-fd43-48aa-a283-c0dcb8e6a79d)
+
+In the “Upload” window, click on the “Add files” button to select the file you want to upload.
+
+Once you’ve selected your file, click “Next.”
 
